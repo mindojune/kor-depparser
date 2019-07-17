@@ -9,6 +9,6 @@
 ## Oracle for generating training examples
 
 ## Evaluation Metrics
-- UAS (Unlabeled Attachment Score)
-- LAS (Labeled)
+- UAS (Unlabeled Attachment Score): measure if the tree has a correct head/arc structure
+- LAS (Labeled): also measures the accuracy of arc labels
 
