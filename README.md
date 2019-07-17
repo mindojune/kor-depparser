@@ -1,4 +1,4 @@
-# Dependency Parser for Korean: in progress
+# Transition-based Dependency Parser for Korean: in progress
 
 ## Pipeline
 1. tokenizer
@@ -9,4 +9,6 @@
 ## Oracle for generating training examples
 
 ## Evaluation Metrics
+- UAS (Unlabeled Attachment Score)
+- LAS (Labeled)
 
