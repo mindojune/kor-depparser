@@ -1,4 +1,4 @@
-# Transition-based Dependency Parser for Korean: in progress
+# Transition-based  Universal Dependency Parser for Korean: in progress
 
 ## Pipeline
 1. preprocessing stage
