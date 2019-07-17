@@ -1,8 +1,9 @@
 # Transition-based Dependency Parser for Korean: in progress
 
 ## Pipeline
-1. tokenizer
-2. word embedding vector
+1. preprocessing stage
+	1. tokenizer: which tokenizer?
+2. word embedding vector: which embedding?
 3. transition classifier - a seq2seq model or a transformer
 
 
